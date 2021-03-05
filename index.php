@@ -15,7 +15,6 @@
  *
  * A l'aide d'une boucle, affichez chaque ligne du tableau de résultat.
  */
-ini_set('display_errors', '1');
 
 // TODO Votre code ici.
 require "./Classes/DB.php";
